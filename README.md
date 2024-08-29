@@ -1,8 +1,11 @@
 ## Hi there 👋
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam__caua)
 
 **caua2006/caua2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[Instagram](instagram.com/iam__caua)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caua2006&show_icons=true&theme=holi)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
