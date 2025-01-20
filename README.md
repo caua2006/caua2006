@@ -30,7 +30,7 @@ I'm Cauã, a passionate **software developer** with a background in **IT technic
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?caua2006&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=caua2006&show_icons=true&theme=radical)
 
 ---
 
